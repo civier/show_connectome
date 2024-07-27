@@ -9,3 +9,6 @@
    4. If this is a structural connectome, set is_structural below to True
    5. Download the .py with the desired function from Github and upload it to Google Colab
    6. Press Ctrl+F9 to run the jupyter notebook
+
+   Examples:
+   Click on show_connectome.ipynb to see output examples
