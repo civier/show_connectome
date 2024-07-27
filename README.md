@@ -11,4 +11,5 @@
    6. Press Ctrl+F9 to run the jupyter notebook
 
    Examples:
+   
    Click on show_connectome.ipynb to see output examples
