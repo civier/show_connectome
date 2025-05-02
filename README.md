@@ -2,6 +2,8 @@
    show_connectome
    ===============
 
+   Visualise connectivity matrices in the browser via Google Colab (no installation necessary and data is not shared with a 3rd party)
+   
    Usage:
    1. Open the jupyter script in Google Colab
    2. Upload the connectome file and labels file
